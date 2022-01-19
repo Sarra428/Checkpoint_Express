@@ -1,0 +1,46 @@
+
+h1{
+    color:#a32744
+}
+
+h2 {
+    color : rgb(241, 47, 79)
+    
+}
+
+.contenu{
+width:800px;
+height: auto;
+margin-left: 70px;
+}
+
+.title{
+    margin-top: 2px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: salmon;
+}
+
+.advice{
+   
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-left: 80px;
+margin-top: 30px;
+font-size: inherit;
+
+}
+
+.totalpage{
+    display:inline-flex;
+
+}
+
+.servicess{
+    display:flex;
+    justify-content:space-around;
+}
+
+
+:required{
+    background: red;
+}
